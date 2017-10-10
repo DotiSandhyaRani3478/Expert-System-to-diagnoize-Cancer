@@ -1,7 +1,11 @@
-Group members:
-1. Sandhya Rani Doti	A04714047	s_d228@txstate.edu
-2. Akshay Chandrachood	A04742395 	amc400@txstate.edu
 
+			AN INTELLIGENT EXPERT SYSTEM TO DETECT CANCER AND RECOMMEND TREATMENT 
+
+
+Create an intelligent computer expert system for a hospital to diagnose Cancer and to recommend the treatment based on the diagnosis. Perform research using Web or any other source to collect knowledge about the symptoms of Cancer as well as treatments. The hospital staff will feed the symptoms of the patient. Your expert system will diagnose the specific Cancer and will recommend the treatment.  
+After collecting knowledge, develop two decision tree; one for diagnoses and the other for treatment.  Then transform the decision trees into rules.  The diagnoses decision tree should be big enough to generate a minimum of twenty five rules. The treatment decision tree should be big enough to cover all types of cancers.  The rules should contain variables.  
+Implement the expert system program, employing Backward Chaining and Forward Chaining methodologies. Programs based on these methodologies are provided on TRACS. These programs, written in C, are intentionally written poorly and are inefficient and erroneous. Rewrite these programs in C++ by employing Software Engineering principles. Separate Knowledge base and Inference Engine parts of each program and bring efficiency in functionality and output using your creativity. Though you can totally rewrite the programs, they must be based on the methodologies used in these programs. Using any programs from any other source including web will be treated as plagiarism subject to severe punishment. 
+Develop a user-friendly interface, which receives input data from a clinic staff in restricted English format, uses keyword matching, and responds in a restricted English format.
 
 Steps to compile and run the project.
 =================================================================================
