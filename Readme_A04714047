@@ -1,0 +1,55 @@
+Group members:
+1. Sandhya Rani Doti	A04714047	s_d228@txstate.edu
+2. Akshay Chandrachood	A04742395 	amc400@txstate.edu
+
+
+Steps to compile and run the project.
+=================================================================================
+
+For IDE users:
+
+Step 1) 
+
+	Unzip the file .
+
+
+
+Step 2)
+	We have the below files in the project.
+	
+	a) Project1_A04714047.cpp (it has main() function)
+	b) Project1_A04714047.h
+	c) Project1_A04714047_forward.cpp
+	d) rules.txt (We used this file to display all the rules when the user runs the program)
+
+
+Step 3) 
+
+	Open all the above mentioned files using codeblocks IDE. 
+	
+
+
+
+Step 4) 
+	
+	Build all the files.
+	
+	
+
+
+Step 5) 
+	
+	Then run Project1_A04714047.cpp and Project1_A04714047_forward.cpp file.
+	
+==============================================================================================
+
+For linux users:
+
+1. navigate to public_html using cd command
+2. compile: g++ main.cpp -o main
+   Run: ./main
+
+3. rules.txt file should be placed inside same directory
+4. computer generated file(data_log.txt) will be inside same directory only.
+
+       

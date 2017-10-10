@@ -1,0 +1,14 @@
+
+***EXPERT SYSTEM FOR SPECIFIC CANCER DETECTION AND TREATMENT RECOMMENDATION***
+
+
+Course: CS 5346	ARTIFICIAL INTELLIGENCE
+
+Group Members: 1.Akshay Chandrachood	2.SandhyaRani Doti
+
+___________________________________________________________________________________
+
+Result: lung_cancer = squanors_cell_carcinoma
+TREATMENT :	IMMUNO THERAPY
+___________________________________________________________________________________
+
